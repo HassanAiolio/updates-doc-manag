@@ -1,7 +1,11 @@
-[
-  {
-    "version": "0.1.0",
-    "notes": "Initial release of larfi-petroleum-desktop",
-    "url": "https://github.com/HassanAiolio/larfi-petroleum-doc-mang/releases/download/LarfiPetoleum/larfi-petroleum-desktop_0.1.0_x64-setup.exe"
+{
+  "version": "0.2.0",
+  "notes": "Fixed document preview and download buttons.",
+  "pub_date": "2026-04-10T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYVpWRU9DWTVKNDh0akZmd1dYbjlzbEhOcXFic042VlEvTjVjNE5La2x6eTk2UWZvc1FTQVZrclJNSG1CNS9SajRMR3RsOVJQT2M2OHQvaEtvVXJjekUxSUhKbHQyeXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODMxOTA2CWZpbGU6bGFyZmktcGV0cm9sZXVtLWRlc2t0b3BfMC4yLjBfeDY0LXNldHVwLmV4ZQowWjRNYXVGNmNuSFRMNDhscDhwcEN6OGowNGFWQUxlVkgwQlBkbjRCVkZ4em5qbVZNUkt2M2g5cGl4ZCtrb2hNd1dmanZLK3Q0MTRJNGtvWDhxWDJCdz09Cg==",
+      "url": "https://github.com/HassanAiolio/larfi-petroleum-doc-mang/releases/download/v0.2.0_Larfi/larfi-petroleum-desktop_0.2.0_x64-setup.exe"
+    }
   }
-]
+}
